@@ -1,0 +1,104 @@
+body{
+    background-color: gainsboro;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-size:1.2em;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size:3.7rem; /*1em = 16px and 100% = 16px so size the font according to it*/ 
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+
+/****Defining Class selectors***/
+.para_1{
+    font-family: 'Cookie', cursive;
+    font-size:1.4rem;
+}
+
+.Mountain{
+    height: 670px;
+    width: 1345px;
+    position: relative;
+    top: 25px;
+
+}
+
+.Name{
+    position:absolute;
+    top: 140px;
+    left:450px;
+ 
+}
+.bar{
+    width: 1345px;
+    height: 150px;
+    background-color:black;
+}
+.line1{
+    border-style: none;
+    width: 15%;
+    border-top-style:dotted;
+    border-width:5px;
+    border-color:gray;
+}
+.Mypic{
+    padding-top: 50px;
+    width: 25%;
+}
+.pyimg{
+    height: 250px;
+    width: 30%;
+
+}
+.xlimg{
+    height: 250px;
+    width: 30%;
+    padding-left: 20px;
+}
+.Game{
+    height: 250px;
+    width: 30%;
+}
+h3{
+
+    font-size:2.6rem;
+    margin-block-start: 0;
+}
+h4{
+    font-family: 'Cookie', cursive;
+    font-size:2.6rem;
+    color: white;
+    margin: 0;
+}
+.Skills{
+    position: relative;
+}
+.Email{
+    font-size:1rem;
+    color: white;
+}
+.skills-row{
+    margin: auto;
+}
+.copy{
+    font-size: 1rem;
+    color:aqua;
+}
+h5{
+    font-size: 2.5rem;
+    color:#66BFBF;
+    margin:0;
+    margin-top: 4px;
+}
+a{
+    margin:0 10px 0;
+    text-decoration: none;
+    color: aqua;
+}
+a:hover{
+    text-decoration: underline;
+}
